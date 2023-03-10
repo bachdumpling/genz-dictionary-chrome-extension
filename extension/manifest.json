@@ -1,0 +1,10 @@
+{
+  "name": "Gen Z Dictionary",
+  "description": "Decode the lingo, speak Gen Z fluently",
+  "version": "0.0.1",
+  "manifest_version": 3,
+  "action": {
+    "default_title": "Gen Z Dictionary",
+    "default_popup": "index.html"
+  }
+}
